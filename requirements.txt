@@ -6,4 +6,6 @@ flask-bcrypt
 flask-login
 flask-migrate
 Pillow
+flask-mail
+itsdangerous
 # -e .
